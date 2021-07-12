@@ -5,4 +5,4 @@ knowledge to an outsider. Yet, this premise dominated the
 everyday behavior of the TX-0 hackers, as well as the generations
 of hackers that came after them.
 
---Stephen Levy, <i>Hackers</i>
+--Steven Levy, <i>Hackers</i>
